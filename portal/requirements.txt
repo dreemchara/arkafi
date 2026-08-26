@@ -1,0 +1,16 @@
+blinker==1.9.0
+click==8.3.1
+dotenv==0.9.9
+Flask==3.1.2
+getmac==0.9.5
+gunicorn==25.0.3
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+packaging==26.0
+psycopg2-binary==2.9.11
+python-dotenv==1.2.2
+ua-parser==1.0.2
+ua-parser-builtins==202605
+user-agents==2.2.0
+Werkzeug==3.1.5

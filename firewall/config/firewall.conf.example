@@ -1,0 +1,21 @@
+# Интерфейсы
+WAN_INTERFACE=
+LAN_INTERFACE=
+LAN_IP_RANGE=192.168.xx.0/24
+
+# Proxy
+PROXY_PORT=
+SOCKS5_PROXY_PORT=
+PROXY_IP=127.0.0.1
+PROXY_USER=
+
+# Capture Portal
+PORTAL_IP=192.168.xx.1
+PORTAL_PORT=80
+
+# БД
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=arkafi
+DB_USER=arkafi
+DB_PASS=your_password

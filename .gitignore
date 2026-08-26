@@ -1,0 +1,16 @@
+firewall/config/firewall.conf
+
+__pycache__/
+*.pyc
+.venv/
+
+portal/log/
+
+*.sql.bak
+
+.DS_Store
+
+firewall/rules/ru.zone
+firewall/rules/*.tmp
+
+.vscode/
